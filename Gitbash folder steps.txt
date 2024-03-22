@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "commit message"
+git commit -m "commit message"("add files")
 git branch -M main
 git remote add origin <GitHub link>
 git push -u origin main
