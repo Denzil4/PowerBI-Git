@@ -1,0 +1,109 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 89.027777777777828,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 993.77777777777783,
+            "y": 337.55555555555554
+          },
+          "nodeIndex": "Returns",
+          "nodeLineageTag": "5bd67e71-ecfe-4c65-a3cf-1a933eeb0d24",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 413.148142496745,
+            "y": 358.74074639214405
+          },
+          "nodeIndex": "Transactions",
+          "nodeLineageTag": "e428078e-c0e9-4a7c-a191-ada3abffcb27",
+          "size": {
+            "height": 224,
+            "width": 219
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 701.0370144314237,
+            "y": 5.7777777777777146
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "a0cc0b0b-d4bf-46a8-abd6-c37d95227601",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 71.111111111111114,
+            "y": 0
+          },
+          "nodeIndex": "Customers",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 356.22222222222223,
+            "y": 0
+          },
+          "nodeIndex": "Products",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 69.111111111111143,
+            "y": 370.66666666666663
+          },
+          "nodeIndex": "Regions",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 695.33333333333326,
+            "y": 323.33333333333331
+          },
+          "nodeIndex": "Stores",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 80,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
